@@ -1,0 +1,8 @@
+git init --깃 생성
+git remote add origin https://github.com/jiyuhosi/express_pr.git
+ 
+git branch -m master main --브랜치 마스터에서 메인으로 변경
+
+git add 
+git commit
+ git push origin +main 메인에 푸쉬하기
